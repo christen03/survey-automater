@@ -1097,3 +1097,825 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
 1676607611411	Marionette	INFO	Stopped listening on port 55562
+1676608649308	geckodriver	INFO	Listening on 127.0.0.1:56987
+1676608649812	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56988" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile24v2HO"
+1676608650958	Marionette	INFO	Marionette enabled
+1676608651408	Marionette	INFO	Listening on port 57002
+Read port: 57002
+WebDriver BiDi listening on ws://127.0.0.1:56988
+1676608652548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile24v2HO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56988/devtools/browser/7ab3e2e8-465b-473d-9c17-ccfbd53e6d95
+1676608686008	geckodriver	INFO	Listening on 127.0.0.1:57088
+1676608689798	geckodriver	INFO	Listening on 127.0.0.1:57097
+1676608690319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57098" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileG1KgSi"
+1676608691818	Marionette	INFO	Marionette enabled
+1676608692204	Marionette	INFO	Listening on port 57108
+Read port: 57108
+WebDriver BiDi listening on ws://127.0.0.1:57098
+1676608692698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileG1KgSi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57098/devtools/browser/f9bc5523-c6da-463b-b8ba-4d98e2f8cb89
+1676608696383	Marionette	INFO	Stopped listening on port 57002
+1676608720729	Marionette	INFO	Stopped listening on port 57108
+1676608723242	geckodriver	INFO	Listening on 127.0.0.1:57196
+1676608723766	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57197" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileLUfhdo"
+1676608725189	Marionette	INFO	Marionette enabled
+1676608725585	Marionette	INFO	Listening on port 57207
+Read port: 57207
+WebDriver BiDi listening on ws://127.0.0.1:57197
+1676608726066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileLUfhdo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57197/devtools/browser/45e0436d-f231-4bbc-87d3-33efde829429
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1676609031505	geckodriver	INFO	Listening on 127.0.0.1:57619
+1676609032013	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57620" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilew1c7vC"
+1676609033727	Marionette	INFO	Marionette enabled
+1676609034260	Marionette	INFO	Listening on port 57642
+Read port: 57642
+WebDriver BiDi listening on ws://127.0.0.1:57620
+1676609034605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilew1c7vC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57620/devtools/browser/8a5394f3-7221-4d8e-8b52-ae2e68fd8d34
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1676609106114	geckodriver	INFO	Listening on 127.0.0.1:57805
+1676609106620	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57806" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile5tGfKT"
+1676609107956	Marionette	INFO	Marionette enabled
+1676609108805	Marionette	INFO	Listening on port 57817
+Read port: 57817
+WebDriver BiDi listening on ws://127.0.0.1:57806
+1676609109471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile5tGfKT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57806/devtools/browser/dfb9f59e-c1cf-424c-ad48-bf06b8ae28a9
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1676609117173	Marionette	INFO	Stopped listening on port 57207
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:883:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:788:38
+
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.error: (new Error("IndexedDB: main/password-rules getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+1676609120847	geckodriver	INFO	Listening on 127.0.0.1:57853
+1676609121360	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57854" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilepVWdeA"
+1676609122825	Marionette	INFO	Marionette enabled
+1676609123562	Marionette	INFO	Listening on port 57866
+Read port: 57866
+WebDriver BiDi listening on ws://127.0.0.1:57854
+1676609124113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilepVWdeA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57854/devtools/browser/de0945b8-4719-4076-b3ab-d22eb5d01744
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1676609197030	geckodriver	INFO	Listening on 127.0.0.1:58019
+1676609197530	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58020" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilefiXTFm"
+1676609199098	Marionette	INFO	Marionette enabled
+1676609199898	Marionette	INFO	Listening on port 58034
+Read port: 58034
+WebDriver BiDi listening on ws://127.0.0.1:58020
+1676609200387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilefiXTFm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58020/devtools/browser/a1f80f96-6587-4f42-abc1-7f5e2dbf5734
+1676609423467	geckodriver	INFO	Listening on 127.0.0.1:58375
+1676609423973	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58376" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile4AwxkQ"
+1676609425580	Marionette	INFO	Marionette enabled
+1676609426340	Marionette	INFO	Listening on port 58386
+Read port: 58386
+WebDriver BiDi listening on ws://127.0.0.1:58376
+1676609426704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile4AwxkQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58376/devtools/browser/bca6d970-97c4-4cbc-9805-cf3941f1fd68
+1676609444242	geckodriver	INFO	Listening on 127.0.0.1:58468
+1676609444757	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58469" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile6fSYBH"
+1676609446114	Marionette	INFO	Marionette enabled
+1676609446417	Marionette	INFO	Listening on port 58479
+Read port: 58479
+WebDriver BiDi listening on ws://127.0.0.1:58469
+1676609447153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile6fSYBH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58469/devtools/browser/a1570640-7e79-4c91-a762-98bcab4843cf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1676610304499	geckodriver	INFO	Listening on 127.0.0.1:59612
+1676610305001	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59613" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile57i50v"
+1676610306756	Marionette	INFO	Marionette enabled
+1676610307201	Marionette	INFO	Listening on port 59633
+Read port: 59633
+WebDriver BiDi listening on ws://127.0.0.1:59613
+1676610307839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile57i50v/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59613/devtools/browser/d2b2be9d-b792-4227-b87f-c63f8578114a
+1676610482450	geckodriver	INFO	Listening on 127.0.0.1:59945
+1676610482980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59946" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileoNAggu"
+1676610484771	Marionette	INFO	Marionette enabled
+1676610485496	Marionette	INFO	Listening on port 59962
+Read port: 59962
+WebDriver BiDi listening on ws://127.0.0.1:59946
+1676610485936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileoNAggu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59946/devtools/browser/6d36e2a1-3172-4f6e-bc15-aacac02c5085
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1676610519460	Marionette	INFO	Stopped listening on port 59962
+1676610523342	Marionette	INFO	Stopped listening on port 59633
+1676610526730	Marionette	INFO	Stopped listening on port 58386
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676610529426	Marionette	INFO	Stopped listening on port 58034
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676610531861	Marionette	INFO	Stopped listening on port 57866
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676610536107	geckodriver	INFO	Listening on 127.0.0.1:60079
+1676610536610	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60080" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileYlNYpb"
+1676610538224	Marionette	INFO	Marionette enabled
+1676610539014	Marionette	INFO	Listening on port 60092
+Read port: 60092
+WebDriver BiDi listening on ws://127.0.0.1:60080
+1676610539317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileYlNYpb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60080/devtools/browser/18bb2c30-bfc3-483c-8f1b-b39aad021a49
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1676610769310	Marionette	INFO	Stopped listening on port 60092
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676610774268	geckodriver	INFO	Listening on 127.0.0.1:60455
+1676610774771	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60456" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilek2M0go"
+1676610776105	Marionette	INFO	Marionette enabled
+1676610776630	Marionette	INFO	Listening on port 60469
+Read port: 60469
+WebDriver BiDi listening on ws://127.0.0.1:60456
+1676610776995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilek2M0go/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60456/devtools/browser/a285a20e-1500-45a5-8ec2-80a804697f4c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1676610792407	Marionette	INFO	Stopped listening on port 60469
+1676610915297	geckodriver	INFO	Listening on 127.0.0.1:60696
+1676610915808	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60697" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile4wo8Ue"
+1676610917534	Marionette	INFO	Marionette enabled
+1676610918247	Marionette	INFO	Listening on port 60717
+Read port: 60717
+WebDriver BiDi listening on ws://127.0.0.1:60697
+1676610918718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1676610933048	geckodriver	INFO	Listening on 127.0.0.1:60741
+1676610933553	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60742" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilevAecC7"
+1676610934774	Marionette	INFO	Marionette enabled
+1676610935139	Marionette	INFO	Listening on port 60750
+Read port: 60750
+WebDriver BiDi listening on ws://127.0.0.1:60742
+1676610935724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilevAecC7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60742/devtools/browser/3a372960-0c53-4fb9-94c6-aac0b94fc6ca
+1676610939324	Marionette	INFO	Stopped listening on port 60750
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 145: Error: Shutdown, aborting read-only worker requests.
+1676610941101	geckodriver	INFO	Listening on 127.0.0.1:60778
+1676610941611	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60779" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileUdfDfo"
+1676610943019	Marionette	INFO	Marionette enabled
+1676610943378	Marionette	INFO	Listening on port 60787
+Read port: 60787
+WebDriver BiDi listening on ws://127.0.0.1:60779
+1676610943915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileUdfDfo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60779/devtools/browser/e8fc9280-84ee-460f-a48f-d1ddbbaca05f
+1676610950306	geckodriver	INFO	Listening on 127.0.0.1:60842
+1676610950842	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60843" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileJzL3Yj"
+1676610952450	Marionette	INFO	Marionette enabled
+1676610952731	Marionette	INFO	Listening on port 60854
+Read port: 60854
+WebDriver BiDi listening on ws://127.0.0.1:60843
+1676610953088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileJzL3Yj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60843/devtools/browser/103826ff-3d9c-4b71-89d5-fece374ab42d
+1676610988722	geckodriver	INFO	Listening on 127.0.0.1:60932
+1676610989226	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60933" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileX8CwCl"
+1676610990597	Marionette	INFO	Marionette enabled
+1676610991158	Marionette	INFO	Listening on port 60943
+Read port: 60943
+WebDriver BiDi listening on ws://127.0.0.1:60933
+1676610991676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileX8CwCl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60933/devtools/browser/3daad276-3000-4941-b1ec-90aaa1c600e9
+1676611034921	geckodriver	INFO	Listening on 127.0.0.1:61032
+1676611035432	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61033" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileNqfrzb"
+1676611037082	Marionette	INFO	Marionette enabled
+1676611037561	Marionette	INFO	Listening on port 61043
+Read port: 61043
+WebDriver BiDi listening on ws://127.0.0.1:61033
+1676611038183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileNqfrzb/search.json.mozlz4", (void 0)))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1676611040760	Marionette	INFO	Stopped listening on port 61043
+1676611040789	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 635: TypeError: this.browsingContext is null
+1676611041237	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: callInstallListeners :: line 1455\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2691\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2691\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2691\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2691\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2691\"  data: no]"
+console.error: SearchService: "Could not find a replacement default engine."
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: "Failed to import bookmarks from chrome://browser/content/default-bookmarks.html: Error: places.sqlite#0: cannot execute operation Bookmarks.jsm: eraseEverything, the connection is already closing"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: region-update-timer
+1676611045686	Marionette	INFO	Stopped listening on port 60854
+1676611047979	Marionette	INFO	Stopped listening on port 60943
+1676611050569	Marionette	INFO	Stopped listening on port 60787
+1676611200498	geckodriver	INFO	Listening on 127.0.0.1:61330
+1676611201001	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61331" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileah3TUG"
+1676611202739	Marionette	INFO	Marionette enabled
+1676611203461	Marionette	INFO	Listening on port 61352
+Read port: 61352
+WebDriver BiDi listening on ws://127.0.0.1:61331
+1676611203883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileah3TUG/search.json.mozlz4", (void 0)))
+Exiting due to channel error.
+Exiting due to channel error.
+1676611214131	geckodriver	INFO	Listening on 127.0.0.1:61382
+1676611214659	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61383" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilenCjtn1"
+1676611216967	Marionette	INFO	Marionette enabled
+1676611217612	Marionette	INFO	Listening on port 61390
+Read port: 61390
+WebDriver BiDi listening on ws://127.0.0.1:61383
+1676611218257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilenCjtn1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61383/devtools/browser/b1a140fc-6ed5-4704-ba89-11294e98dd26
+1676611225119	geckodriver	INFO	Listening on 127.0.0.1:61427
+1676611225604	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61428" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilePFwPSD"
+1676611226998	Marionette	INFO	Marionette enabled
+1676611227333	Marionette	INFO	Listening on port 61436
+Read port: 61436
+WebDriver BiDi listening on ws://127.0.0.1:61428
+1676611227904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilePFwPSD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61428/devtools/browser/d7ba19d3-f623-4e4c-8d50-359ac06a0c8b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1676611272739	geckodriver	INFO	Listening on 127.0.0.1:61579
+1676611273244	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61580" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile43s0f1"
+1676611274728	Marionette	INFO	Marionette enabled
+1676611275500	Marionette	INFO	Listening on port 61594
+Read port: 61594
+WebDriver BiDi listening on ws://127.0.0.1:61580
+1676611275976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile43s0f1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61580/devtools/browser/6ca779f0-2815-493b-b0ca-dd965cd7d83b
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1676613500213	geckodriver	INFO	Listening on 127.0.0.1:64201
+1676613500714	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64202" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile3RJpl7"
+1676613502770	Marionette	INFO	Marionette enabled
+1676613503472	Marionette	INFO	Listening on port 64224
+Read port: 64224
+WebDriver BiDi listening on ws://127.0.0.1:64202
+1676613503928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile3RJpl7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64202/devtools/browser/a82698a0-2181-483f-9f82-bbdc005864c5
+1676613509427	geckodriver	INFO	Listening on 127.0.0.1:64262
+1676613509932	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64263" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilezmgPO0"
+1676613511741	Marionette	INFO	Marionette enabled
+1676613513426	Marionette	INFO	Listening on port 64295
+Read port: 64295
+WebDriver BiDi listening on ws://127.0.0.1:64263
+1676613514235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilezmgPO0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64263/devtools/browser/1e0f718d-146a-4ea5-991e-5b76d9094319
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1676613548943	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1676613599909	geckodriver	INFO	Listening on 127.0.0.1:64685
+1676613600427	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64686" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileWU1WGN"
+1676613602068	Marionette	INFO	Marionette enabled
+1676613602598	Marionette	INFO	Listening on port 64710
+Read port: 64710
+WebDriver BiDi listening on ws://127.0.0.1:64686
+1676613602959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileWU1WGN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64686/devtools/browser/304cae61-1d32-49a2-8a69-73eb59e94ba2
+1676613608772	geckodriver	INFO	Listening on 127.0.0.1:64760
+1676613609286	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64761" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileT6lqb8"
+1676613610678	Marionette	INFO	Marionette enabled
+1676613611224	Marionette	INFO	Listening on port 64783
+Read port: 64783
+WebDriver BiDi listening on ws://127.0.0.1:64761
+1676613612236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileT6lqb8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64761/devtools/browser/b7aa1cf6-043d-4e9a-9bff-9a2eb07bf86b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1676613639460	Marionette	INFO	Stopped listening on port 64783
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1676614087309	geckodriver	INFO	Listening on 127.0.0.1:49231
+1676614087816	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49232" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileq2jARV"
+1676614089503	Marionette	INFO	Marionette enabled
+1676614090110	Marionette	INFO	Listening on port 49242
+Read port: 49242
+WebDriver BiDi listening on ws://127.0.0.1:49232
+1676614091098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileq2jARV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49232/devtools/browser/cabf835d-b8f7-4ca4-8ec1-50c0e99e457e
+1676614099041	geckodriver	INFO	Listening on 127.0.0.1:49290
+1676614099569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49291" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileIyPfTP"
+1676614101635	Marionette	INFO	Marionette enabled
+1676614102402	Marionette	INFO	Listening on port 49300
+Read port: 49300
+WebDriver BiDi listening on ws://127.0.0.1:49291
+Read port: 49300
+1676614104265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileIyPfTP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49291/devtools/browser/071fe2f9-64c7-4875-8898-60a33f89eb2b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1676614241394	geckodriver	INFO	Listening on 127.0.0.1:49643
+1676614241913	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49644" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile0Kkczy"
+1676614243642	Marionette	INFO	Marionette enabled
+1676614244047	Marionette	INFO	Listening on port 49664
+Read port: 49664
+WebDriver BiDi listening on ws://127.0.0.1:49644
+1676614244413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile0Kkczy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49644/devtools/browser/50e966d5-5ded-40c8-b9b6-6ab2e9739c04
+1676614249391	geckodriver	INFO	Listening on 127.0.0.1:49721
+1676614249905	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49722" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile6H0Tlo"
+1676614251158	Marionette	INFO	Marionette enabled
+1676614251637	Marionette	INFO	Listening on port 49742
+Read port: 49742
+WebDriver BiDi listening on ws://127.0.0.1:49722
+1676614251914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile6H0Tlo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49722/devtools/browser/30fc6979-6707-4774-8a88-e64ea1729f8b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1676614291886	Marionette	INFO	Stopped listening on port 49742
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1676614363050	geckodriver	INFO	Listening on 127.0.0.1:50043
+1676614363568	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50044" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileboU0cl"
+1676614365193	Marionette	INFO	Marionette enabled
+1676614365985	Marionette	INFO	Listening on port 50071
+Read port: 50071
+WebDriver BiDi listening on ws://127.0.0.1:50044
+1676614366729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileboU0cl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50044/devtools/browser/b96fc39c-fab2-41fd-b72b-44a9dc97b0e1
+1676614373017	geckodriver	INFO	Listening on 127.0.0.1:50110
+1676614373536	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50111" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileg6Vliy"
+1676614375822	Marionette	INFO	Marionette enabled
+1676614377204	Marionette	INFO	Listening on port 50136
+Read port: 50136
+WebDriver BiDi listening on ws://127.0.0.1:50111
+1676614377976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileg6Vliy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50111/devtools/browser/d0e92a8a-f631-4f72-8060-21ec24f3fb65
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1676614444238	geckodriver	INFO	Listening on 127.0.0.1:50348
+1676614444762	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50349" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilefs9BFe"
+1676614447111	Marionette	INFO	Marionette enabled
+1676614448556	Marionette	INFO	Listening on port 50365
+Read port: 50365
+WebDriver BiDi listening on ws://127.0.0.1:50349
+1676614449206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilefs9BFe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50349/devtools/browser/cbb33686-8403-476a-bf58-0434d923021f
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1676614549660	geckodriver	INFO	Listening on 127.0.0.1:50743
+1676614550169	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50744" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileEdVLW7"
+1676614552345	Marionette	INFO	Marionette enabled
+1676614552836	Marionette	INFO	Listening on port 50763
+Read port: 50763
+WebDriver BiDi listening on ws://127.0.0.1:50744
+1676614553211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileEdVLW7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50744/devtools/browser/6ee3ffb3-a731-4d78-a3a9-3fcf2af5a76e
+1676614558079	geckodriver	INFO	Listening on 127.0.0.1:50820
+1676614558593	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50821" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileZ4HhMl"
+1676614559761	Marionette	INFO	Marionette enabled
+1676614560069	Marionette	INFO	Listening on port 50832
+Read port: 50832
+WebDriver BiDi listening on ws://127.0.0.1:50821
+1676614560682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileZ4HhMl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50821/devtools/browser/ac323b13-94be-426c-9ca6-26b4e192819c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1676614625297	geckodriver	INFO	Listening on 127.0.0.1:51031
+1676614625810	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51032" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileqWsjAd"
+1676614627293	Marionette	INFO	Marionette enabled
+1676614627711	Marionette	INFO	Listening on port 51052
+Read port: 51052
+WebDriver BiDi listening on ws://127.0.0.1:51032
+1676614628087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileqWsjAd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51032/devtools/browser/88d534d8-97b8-4b01-9e4f-07f1cc11b2a9
+1676614632825	geckodriver	INFO	Listening on 127.0.0.1:51107
+1676614633335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51108" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile9gyt3g"
+1676614634596	Marionette	INFO	Marionette enabled
+1676614634881	Marionette	INFO	Listening on port 51119
+Read port: 51119
+WebDriver BiDi listening on ws://127.0.0.1:51108
+1676614635421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile9gyt3g/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51108/devtools/browser/9deee5fd-2850-4ff1-9227-99236d9e8c0d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1676614664114	Marionette	INFO	Stopped listening on port 51119
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1676614688604	geckodriver	INFO	Listening on 127.0.0.1:51284
+1676614689110	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51285" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilelzFk8y"
+1676614690596	Marionette	INFO	Marionette enabled
+1676614690990	Marionette	INFO	Listening on port 51292
+Read port: 51292
+WebDriver BiDi listening on ws://127.0.0.1:51285
+1676614691388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilelzFk8y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51285/devtools/browser/adf19457-e1fc-42a5-b019-ba695463cc9d
+1676614696079	geckodriver	INFO	Listening on 127.0.0.1:51329
+1676614696570	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51330" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileE5lrj4"
+1676614697767	Marionette	INFO	Marionette enabled
+1676614698284	Marionette	INFO	Listening on port 51341
+Read port: 51341
+WebDriver BiDi listening on ws://127.0.0.1:51330
+1676614698559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileE5lrj4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51330/devtools/browser/2195dcd7-b343-46a1-aa3d-542f06fb2097
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
