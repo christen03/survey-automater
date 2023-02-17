@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import random
 
-
+# Needs to be cleaned up with loops, + occasional demographic question
 
 def survey(code, surveyResult):
     global running
