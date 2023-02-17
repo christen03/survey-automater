@@ -1919,3 +1919,32 @@ Exiting due to channel error.
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 Exiting due to channel error.
 Exiting due to channel error.
+1676615402553	geckodriver	INFO	Listening on 127.0.0.1:52393
+1676615403056	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52394" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilebBv4jg"
+1676615405104	Marionette	INFO	Marionette enabled
+1676615405665	Marionette	INFO	Listening on port 52411
+Read port: 52411
+WebDriver BiDi listening on ws://127.0.0.1:52394
+1676615406094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilebBv4jg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52394/devtools/browser/a3b061f0-f34d-4769-915d-66d3110eaa94
+1676615411421	geckodriver	INFO	Listening on 127.0.0.1:52454
+1676615411912	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52455" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileP85xg0"
+1676615413558	Marionette	INFO	Marionette enabled
+1676615413993	Marionette	INFO	Listening on port 52471
+Read port: 52471
+WebDriver BiDi listening on ws://127.0.0.1:52455
+1676615414969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileP85xg0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52455/devtools/browser/a7c43b23-174f-4916-827c-4ec21c419210
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
