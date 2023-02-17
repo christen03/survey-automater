@@ -1948,3 +1948,51 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1676616308476	geckodriver	INFO	Listening on 127.0.0.1:54005
+1676616308999	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54006" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilejhxpAT"
+1676616310759	Marionette	INFO	Marionette enabled
+1676616311218	Marionette	INFO	Listening on port 54017
+Read port: 54017
+WebDriver BiDi listening on ws://127.0.0.1:54006
+1676616311556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+1676616315653	geckodriver	INFO	Listening on 127.0.0.1:54025
+1676616316163	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54026" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilevTXvoI"
+1676616317358	Marionette	INFO	Marionette enabled
+1676616317699	Marionette	INFO	Listening on port 54033
+Read port: 54033
+WebDriver BiDi listening on ws://127.0.0.1:54026
+1676616317913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilevTXvoI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54026/devtools/browser/f181d8b1-1ae6-43ce-a00a-facbc3afd9a8
+1676616322781	geckodriver	INFO	Listening on 127.0.0.1:54072
+1676616323323	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54073" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilekbK1r3"
+1676616324363	Marionette	INFO	Marionette enabled
+1676616324734	Marionette	INFO	Listening on port 54082
+Read port: 54082
+WebDriver BiDi listening on ws://127.0.0.1:54073
+1676616325551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilekbK1r3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54073/devtools/browser/ad71e595-c2d0-4908-a010-24ae189b1d53
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1676616352537	Marionette	INFO	Stopped listening on port 54082
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
