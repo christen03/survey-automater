@@ -6,12 +6,16 @@ from surveyfunctions import multiple_columns_one_choice_each, textbox, satisfied
 def survey(code, surveyResult):
     global running
     running = True
-    url = "http://mcdvoice.com"
-    driver.get(url)
+    driver.get("http://mcdvoice.com")
 
     for i in range(1, 7):
         xpath = '//*[@id="CN'+str(i)+'"]'
         driver.find_element(By.XPATH, xpath).send_keys(code[i-1])
+    driver.find_element(By.XPATH, '//*[@id="NextButton"]').click()
+    if(not driver.find_elements(By.CLASS_NAME, "rbList")):
+        driver.close()
+        running=False
+        return
 
     while(driver.find_elements(By.XPATH, '//*[@id="NextButton"]')):
         if(driver.find_elements(By.CLASS_NAME, "rbList")):

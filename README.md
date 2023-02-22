@@ -12,7 +12,7 @@ In line 5, set `driver=webdriver.Firefox()` to:
 - `driver=webdriver.Edge()` for Microsoft Edge
 - `driver=webdriver.Safari()` for Safari
 - `driver=webdriver.Ie()` for Internet Explorer
-- `driver=webdriver.Opera()` for Opera.
+- `driver=webdriver.Opera()` for Opera
 
 Thankfully running it is pretty easy, all you need is two installs:
 
