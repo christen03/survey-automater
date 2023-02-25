@@ -1,4 +1,2 @@
-frontend/
-backend/
-frontend2/
-/surveyfunctions.py
+backend/__pycache__/
+/surveyfunctions
