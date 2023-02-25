@@ -2274,3 +2274,1554 @@ Exiting due to channel error.
 Exiting due to channel error.
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 Exiting due to channel error.
+1677202351831	geckodriver	INFO	Listening on 127.0.0.1:57397
+1677202352285	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57398" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileyzV0hz"
+1677202353948	Marionette	INFO	Marionette enabled
+1677202354237	Marionette	INFO	Listening on port 57409
+Read port: 57409
+WebDriver BiDi listening on ws://127.0.0.1:57398
+1677202354505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileyzV0hz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57398/devtools/browser/0fdaf8f6-4509-4db7-a997-156e5eea69e4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677202924618	geckodriver	INFO	Listening on 127.0.0.1:57611
+1677202925124	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57612" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileOgdE5m"
+1677202926338	Marionette	INFO	Marionette enabled
+1677202926624	Marionette	INFO	Listening on port 57620
+Read port: 57620
+WebDriver BiDi listening on ws://127.0.0.1:57612
+1677202926928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileOgdE5m/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57612/devtools/browser/b12ca6d2-f663-4f1c-8f75-752aba282d74
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 4622 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677203056097	geckodriver	INFO	Listening on 127.0.0.1:57736
+1677203056617	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57737" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilebqszCN"
+1677203057660	Marionette	INFO	Marionette enabled
+1677203058196	Marionette	INFO	Listening on port 57745
+Read port: 57745
+WebDriver BiDi listening on ws://127.0.0.1:57737
+1677203058510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilebqszCN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57737/devtools/browser/7422655e-75ce-4ceb-9bd4-4a8225e22af5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677203116091	geckodriver	INFO	Listening on 127.0.0.1:57800
+1677203116588	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57801" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile8y3gjF"
+1677203117820	Marionette	INFO	Marionette enabled
+1677203118450	Marionette	INFO	Listening on port 57808
+Read port: 57808
+WebDriver BiDi listening on ws://127.0.0.1:57801
+1677203118771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile8y3gjF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57801/devtools/browser/acac1208-591e-4429-b5fd-15def14eea05
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 2490 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 4678 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 4688 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 409 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 2920 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 3849 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 2133 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 6846 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript warning: https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=8d50899b-9111-409c-b6d1-a8a6eed7a923&moatClientLevel4=0493cc3b-2520-430e-b074-5adb94b7a54b&uid=lXgBepILBgiIfwUC4BAECJ0LHXrgfAcW5AkBCJZ-AnmcBAUCr3_SRw==, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pix.adrta.com/cdnf.js?v=22.120, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 475 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 2386 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 1802 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 5374 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: https://pxdrop.lijit.com/a/t_.htm?ver=1.1120.564&cid=c026, line 1: SyntaxError: JSON.parse: expected ':' after property name in object at line 1 column 6 of the JSON data
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 6563 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bP143D2MlfrYa-8L1g1kZrRY_Hu8960J3R7GynJ9320.js line 2 > eval line 6942 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1677203331259	Marionette	INFO	Stopped listening on port 57409
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677203346586	Marionette	INFO	Stopped listening on port 57620
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450947/customhighlighter50, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nshow@resource://devtools/client/fronts/highlighters.js:31:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:586:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450947/customhighlighter50, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nhide@resource://devtools/client/fronts/highlighters.js:36:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:645:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nunhighlightNode/<@resource://devtools/client/inspector/boxmodel/actions/box-model-highlighter.js:81:36\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\nonMouseOut@resource://devtools/client/inspector/boxmodel/components/BoxModelMain.js:488:35\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:442:9\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677203360716	Marionette	INFO	Stopped listening on port 57745
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677203407436	geckodriver	INFO	Listening on 127.0.0.1:58838
+1677203407483	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58839" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileKZ0y1R"
+1677203409443	Marionette	INFO	Marionette enabled
+1677203410564	Marionette	INFO	Listening on port 58845
+Read port: 58845
+WebDriver BiDi listening on ws://127.0.0.1:58839
+1677203411141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileKZ0y1R/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58839/devtools/browser/a9af2584-181f-43ce-bfd1-bf65c8175051
+1677203416686	Marionette	INFO	Stopped listening on port 57808
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677203461461	Marionette	INFO	Stopped listening on port 58845
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677203468609	geckodriver	INFO	Listening on 127.0.0.1:58926
+1677203469113	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58927" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilebMtURg"
+1677203470300	Marionette	INFO	Marionette enabled
+1677203470669	Marionette	INFO	Listening on port 58934
+Read port: 58934
+WebDriver BiDi listening on ws://127.0.0.1:58927
+1677203470961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilebMtURg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58927/devtools/browser/4fe0cce8-a84e-4de9-82a7-0a82d34f8cca
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+1677203564209	geckodriver	INFO	Listening on 127.0.0.1:59005
+1677203564719	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59006" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilekPAp8h"
+1677203565656	Marionette	INFO	Marionette enabled
+1677203566117	Marionette	INFO	Listening on port 59013
+Read port: 59013
+WebDriver BiDi listening on ws://127.0.0.1:59006
+1677203566480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilekPAp8h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59006/devtools/browser/c926de65-04b5-4dc5-83f6-e308cdcd21ec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677204037188	geckodriver	INFO	Listening on 127.0.0.1:59244
+1677204037698	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59245" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilePRBkjm"
+1677204039627	Marionette	INFO	Marionette enabled
+1677204040445	Marionette	INFO	Listening on port 59257
+Read port: 59257
+WebDriver BiDi listening on ws://127.0.0.1:59245
+1677204040926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677204041673	Marionette	INFO	Stopped listening on port 58934
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilePRBkjm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59245/devtools/browser/1a53feca-9e43-4643-b557-3fb7154d7cb1
+1677204045527	Marionette	INFO	Stopped listening on port 59013
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677204061402	Marionette	INFO	Stopped listening on port 59257
+1677204102796	geckodriver	INFO	Listening on 127.0.0.1:59323
+1677204103307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59324" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile52E16S"
+1677204104375	Marionette	INFO	Marionette enabled
+1677204104746	Marionette	INFO	Listening on port 59334
+Read port: 59334
+WebDriver BiDi listening on ws://127.0.0.1:59324
+1677204105113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile52E16S/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59324/devtools/browser/212c1a48-2bd0-4068-8ea8-b65bc95f15f7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677204269352	geckodriver	INFO	Listening on 127.0.0.1:59426
+1677204269858	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59427" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilehercSL"
+1677204270947	Marionette	INFO	Marionette enabled
+1677204271371	Marionette	INFO	Listening on port 59434
+Read port: 59434
+WebDriver BiDi listening on ws://127.0.0.1:59427
+1677204271725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilehercSL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59427/devtools/browser/50625476-f539-48a0-88fc-a3569ca628a6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677204474520	Marionette	INFO	Stopped listening on port 59334
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677204482389	Marionette	INFO	Stopped listening on port 59434
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450958/customhighlighter49, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nhide@resource://devtools/client/fronts/highlighters.js:36:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:645:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nunhighlightNode/<@resource://devtools/client/inspector/boxmodel/actions/box-model-highlighter.js:81:36\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\nonMouseOut@resource://devtools/client/inspector/boxmodel/components/BoxModelMain.js:488:35\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:442:9\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\nflushAllWindowsAsync@resource:///modules/sessionstore/SessionStore.sys.mjs:2268:7\nssi_onQuitApplicationGranted/<@resource:///modules/sessionstore/SessionStore.sys.mjs:2177:32\ntrigger@resource://gre/modules/AsyncShutdown.jsm:754:23\n_wait@resource://gre/modules/AsyncShutdown.jsm:906:15\nwait@resource://gre/modules/AsyncShutdown.jsm:887:34\nobserve@resource://gre/modules/AsyncShutdown.jsm:554:10\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677204485882	geckodriver	INFO	Listening on 127.0.0.1:59521
+1677204486414	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59522" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile6woMy5"
+1677204488255	Marionette	INFO	Marionette enabled
+1677204489194	Marionette	INFO	Listening on port 59529
+Read port: 59529
+WebDriver BiDi listening on ws://127.0.0.1:59522
+1677204489624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile6woMy5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59522/devtools/browser/26efa404-a440-4acf-9fcf-ce60d58bd3a9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677204517502	Marionette	INFO	Stopped listening on port 59529
+1677204519705	geckodriver	INFO	Listening on 127.0.0.1:59581
+1677204520211	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59582" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilenYRjoz"
+1677204521019	Marionette	INFO	Marionette enabled
+1677204521323	Marionette	INFO	Listening on port 59590
+Read port: 59590
+WebDriver BiDi listening on ws://127.0.0.1:59582
+1677204521564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilenYRjoz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59582/devtools/browser/75ea7b2d-6878-4fea-a16f-3ab7f3436b01
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677204628880	Marionette	INFO	Stopped listening on port 59590
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677204632981	geckodriver	INFO	Listening on 127.0.0.1:59660
+1677204633491	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59661" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileGYRDqe"
+1677204634384	Marionette	INFO	Marionette enabled
+1677204634674	Marionette	INFO	Listening on port 59669
+Read port: 59669
+WebDriver BiDi listening on ws://127.0.0.1:59661
+1677204634959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileGYRDqe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59661/devtools/browser/8ff8d0a7-d61a-4fa2-bc5c-9cc0c191d5ad
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677204685315	Marionette	INFO	Stopped listening on port 59669
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677204689753	geckodriver	INFO	Listening on 127.0.0.1:59734
+1677204690259	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59735" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile8Hypqz"
+1677204691048	Marionette	INFO	Marionette enabled
+1677204691327	Marionette	INFO	Listening on port 59742
+Read port: 59742
+WebDriver BiDi listening on ws://127.0.0.1:59735
+1677204691577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile8Hypqz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59735/devtools/browser/70576945-a7b6-4749-9742-35c2230e3c77
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677204761181	geckodriver	INFO	Listening on 127.0.0.1:59817
+1677204761682	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59818" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileqcPOTP"
+1677204762656	Marionette	INFO	Marionette enabled
+1677204762949	Marionette	INFO	Listening on port 59825
+Read port: 59825
+WebDriver BiDi listening on ws://127.0.0.1:59818
+1677204763232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileqcPOTP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59818/devtools/browser/4db5535c-874e-4c10-ba43-b0d580f163b2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677204812017	Marionette	INFO	Stopped listening on port 59742
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677204815404	geckodriver	INFO	Listening on 127.0.0.1:59896
+1677204817973	geckodriver	INFO	Listening on 127.0.0.1:59903
+1677204818495	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59904" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileUuXm76"
+1677204819554	Marionette	INFO	Marionette enabled
+1677204820208	Marionette	INFO	Listening on port 59912
+Read port: 59912
+WebDriver BiDi listening on ws://127.0.0.1:59904
+1677204820488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileUuXm76/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59904/devtools/browser/8a1d2bb1-59f5-43f0-888a-ba9ce89b0abe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677204835012	Marionette	INFO	Stopped listening on port 59912
+1677204851214	geckodriver	INFO	Listening on 127.0.0.1:59981
+1677204851724	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59982" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileHw3RGS"
+1677204853117	Marionette	INFO	Marionette enabled
+1677204855776	geckodriver	INFO	Listening on 127.0.0.1:59992
+1677204856286	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59993" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilelU1vf0"
+1677204857352	Marionette	INFO	Marionette enabled
+1677204857689	Marionette	INFO	Listening on port 60001
+Read port: 60001
+WebDriver BiDi listening on ws://127.0.0.1:59993
+1677204857992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilelU1vf0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59993/devtools/browser/8bc18852-7738-4ec8-9555-2d3a6d8a027a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677204881392	Marionette	INFO	Stopped listening on port 60001
+1   HIToolbox                           0x00007ff827f5f726 _ZN15MenuBarInstance22EnsureAutoShowObserverEv + 102
+2   HIToolbox                           0x00007ff827f5f2b8 _ZN15MenuBarInstance14EnableAutoShowEv + 52
+3   HIToolbox                           0x00007ff827ececd7 _ZN15MenuBarInstance21UpdateAggregateUIModeE21MenuBarAnimationStylehhh + 1113
+4   HIToolbox                           0x00007ff827f5f173 _ZN15MenuBarInstance19SetFullScreenUIModeEjj + 175
+5   AppKit                              0x00007ff82142224b -[NSApplication _setPresentationOptions:instance:flags:] + 1145
+6   AppKit                              0x00007ff821277005 -[NSApplication _updateFullScreenPresentationOptionsForInstance:] + 582
+7   CoreFoundation                      0x00007ff81e0516c6 __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__ + 137
+8   CoreFoundation                      0x00007ff81e0eacac ___CFXRegistrationPost_block_invoke + 86
+9   CoreFoundation                      0x00007ff81e0eac03 _CFXRegistrationPost + 534
+10  CoreFoundation                      0x00007ff81e024e21 _CFXNotificationPost + 809
+11  Foundation                          0x00007ff81ed9babc -[NSNotificationCenter postNotificationName:object:userInfo:] + 82
+12  AppKit                              0x00007ff8214228bc spacesNotificationHandler + 119
+13  SkyLight                            0x00007ff822bc323d _ZN12_GLOBAL__N_123notify_datagram_handlerEj15CGSDatagramTypePvmS1_ + 1030
+14  SkyLight                            0x00007ff822ed605a _ZN21CGSDatagramReadStream26dispatchMainQueueDatagramsEv + 202
+15  SkyLight                            0x00007ff822ed5f81 ___ZN21CGSDatagramReadStream15mainQueueWakeupEv_block_invoke + 18
+16  libdispatch.dylib                   0x00007ff81de007fb _dispatch_call_block_and_release + 12
+17  libdispatch.dylib                   0x00007ff81de01a44 _dispatch_client_callout + 8
+18  libdispatch.dylib                   0x00007ff81de0e7b9 _dispatch_main_queue_drain + 952
+19  libdispatch.dylib                   0x00007ff81de0e3f3 _dispatch_main_queue_callback_4CF + 31
+20  CoreFoundation                      0x00007ff81e09a42d __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 9
+21  CoreFoundation                      0x00007ff81e05aebb __CFRunLoopRun + 2498
+22  CoreFoundation                      0x00007ff81e059e7f CFRunLoopRunSpecific + 560
+23  HIToolbox                           0x00007ff827eec766 RunCurrentEventLoopInMode + 292
+24  HIToolbox                           0x00007ff827eec576 ReceiveNextEventCommon + 679
+25  HIToolbox                           0x00007ff827eec2b3 _BlockUntilNextEventMatchingListInModeWithFilter + 70
+26  AppKit                              0x00007ff8210e5293 _DPSNextEvent + 909
+27  AppKit                              0x00007ff8210e4114 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 1219
+28  XUL                                 0x000000011a50fbc7 _ZN14nsXPTCStubBase7Stub249Ev + 12256455
+29  AppKit                              0x00007ff8210d6757 -[NSApplication run] + 586
+30  XUL                                 0x000000011a510be1 _ZN14nsXPTCStubBase7Stub249Ev + 12260577
+31  XUL                                 0x000000011e2ecbac workerlz4_decompress + 417308
+32  XUL                                 0x000000011a9a66b9 workerlz4_maxCompressedSize + 444105
+33  XUL                                 0x000000011e37088c workerlz4_decompress + 957180
+34  XUL                                 0x000000011e370cac workerlz4_decompress + 958236
+35  firefox-bin                         0x00000001004fefe5 firefox-bin + 8165
+36  dyld                                0x000000020069b310 start + 2432
+1   HIToolbox                           0x00007ff827eec0c2 _ZN15MenuBarInstance22RemoveAutoShowObserverEv + 30
+2   HIToolbox                           0x00007ff827f28638 _ZL17BroadcastInternaljPvh + 167
+3   SkyLight                            0x00007ff822bc323d _ZN12_GLOBAL__N_123notify_datagram_handlerEj15CGSDatagramTypePvmS1_ + 1030
+4   SkyLight                            0x00007ff822ed605a _ZN21CGSDatagramReadStream26dispatchMainQueueDatagramsEv + 202
+5   SkyLight                            0x00007ff822ed5f81 ___ZN21CGSDatagramReadStream15mainQueueWakeupEv_block_invoke + 18
+6   libdispatch.dylib                   0x00007ff81de007fb _dispatch_call_block_and_release + 12
+7   libdispatch.dylib                   0x00007ff81de01a44 _dispatch_client_callout + 8
+8   libdispatch.dylib                   0x00007ff81de0e7b9 _dispatch_main_queue_drain + 952
+9   libdispatch.dylib                   0x00007ff81de0e3f3 _dispatch_main_queue_callback_4CF + 31
+10  CoreFoundation                      0x00007ff81e09a42d __CFRUNLOOP_IS_SERVICING_THE_MAIN_DISPATCH_QUEUE__ + 9
+11  CoreFoundation                      0x00007ff81e05aebb __CFRunLoopRun + 2498
+12  CoreFoundation                      0x00007ff81e059e7f CFRunLoopRunSpecific + 560
+13  HIToolbox                           0x00007ff827eec766 RunCurrentEventLoopInMode + 292
+14  HIToolbox                           0x00007ff827eec576 ReceiveNextEventCommon + 679
+15  HIToolbox                           0x00007ff827eec2b3 _BlockUntilNextEventMatchingListInModeWithFilter + 70
+16  AppKit                              0x00007ff8210e5293 _DPSNextEvent + 909
+17  AppKit                              0x00007ff8210e4114 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:] + 1219
+18  XUL                                 0x000000011a50fbc7 _ZN14nsXPTCStubBase7Stub249Ev + 12256455
+19  AppKit                              0x00007ff8210d6757 -[NSApplication run] + 586
+20  XUL                                 0x000000011a510be1 _ZN14nsXPTCStubBase7Stub249Ev + 12260577
+21  XUL                                 0x000000011e2ecbac workerlz4_decompress + 417308
+22  XUL                                 0x000000011a9a66b9 workerlz4_maxCompressedSize + 444105
+23  XUL                                 0x000000011e37088c workerlz4_decompress + 957180
+24  XUL                                 0x000000011e370cac workerlz4_decompress + 958236
+25  firefox-bin                         0x00000001004fefe5 firefox-bin + 8165
+26  dyld                                0x000000020069b310 start + 2432
+1677270314922	Marionette	INFO	Stopped listening on port 59825
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677291601083	geckodriver	INFO	Listening on 127.0.0.1:62361
+1677291601583	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62362" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilecoMnfy"
+1677291602828	Marionette	INFO	Marionette enabled
+1677291604766	Marionette	INFO	Listening on port 62375
+Read port: 62375
+WebDriver BiDi listening on ws://127.0.0.1:62362
+1677291605201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilecoMnfy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62362/devtools/browser/d731b663-0a0b-4ba1-979d-3c6574d3287c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677291711943	geckodriver	INFO	Listening on 127.0.0.1:62455
+1677291712458	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62456" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileEaDiDB"
+1677291713547	Marionette	INFO	Marionette enabled
+1677291713897	Marionette	INFO	Listening on port 62465
+Read port: 62465
+WebDriver BiDi listening on ws://127.0.0.1:62456
+1677291714232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileEaDiDB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62456/devtools/browser/dd4d3d22-657a-4781-a14a-f09c65c373bb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677291737472	Marionette	INFO	Stopped listening on port 62465
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tZsXipaSZXHHcL3TzAhvrOIdSpwDyJfWMGTb_6xT6xM.js line 2 > eval line 2360 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677291889186	geckodriver	INFO	Listening on 127.0.0.1:62578
+1677291889694	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62579" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofiledj3pmm"
+1677291890755	Marionette	INFO	Marionette enabled
+1677291891078	Marionette	INFO	Listening on port 62588
+Read port: 62588
+WebDriver BiDi listening on ws://127.0.0.1:62579
+1677291891366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofiledj3pmm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62579/devtools/browser/55ced014-68c1-403e-a859-3db8cbd35995
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677291999354	geckodriver	INFO	Listening on 127.0.0.1:62660
+1677291999864	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62661" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilemVAjLi"
+1677292000898	Marionette	INFO	Marionette enabled
+1677292001279	Marionette	INFO	Listening on port 62670
+Read port: 62670
+WebDriver BiDi listening on ws://127.0.0.1:62661
+1677292001606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilemVAjLi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62661/devtools/browser/9d4bf12d-b155-4b7a-83e1-36136a642909
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://code.visualstudio.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://code.visualstudio.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://code.visualstudio.com."
+JavaScript error: https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js, line 31: NotSupportedError: CustomElementRegistry.define: 'lottie-player' has already been defined as a custom element
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1677293093946	Marionette	INFO	Stopped listening on port 62375
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677293096199	Marionette	INFO	Stopped listening on port 62588
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677293098547	geckodriver	INFO	Listening on 127.0.0.1:63242
+1677293099059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63243" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileoN2jxg"
+1677293100278	Marionette	INFO	Marionette enabled
+1677293100672	Marionette	INFO	Listening on port 63253
+Read port: 63253
+WebDriver BiDi listening on ws://127.0.0.1:63243
+1677293101013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileoN2jxg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63243/devtools/browser/bed5321c-27e9-4721-ba00-63b0dd4b2728
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677293133536	geckodriver	INFO	Listening on 127.0.0.1:63309
+1677293134018	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63310" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilekZLsyq"
+1677293135219	Marionette	INFO	Marionette enabled
+1677293135514	Marionette	INFO	Listening on port 63319
+Read port: 63319
+WebDriver BiDi listening on ws://127.0.0.1:63310
+1677293135795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677293136853	Marionette	INFO	Stopped listening on port 63253
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilekZLsyq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63310/devtools/browser/15936f90-c0a1-4c5f-932d-155209991339
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677293213364	geckodriver	INFO	Listening on 127.0.0.1:63388
+1677293213871	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63389" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilebrK22v"
+1677293214648	Marionette	INFO	Marionette enabled
+1677293214986	Marionette	INFO	Listening on port 63396
+Read port: 63396
+WebDriver BiDi listening on ws://127.0.0.1:63389
+1677293215268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilebrK22v/search.json.mozlz4", (void 0)))
+1677293216817	Marionette	INFO	Stopped listening on port 63319
+DevTools listening on ws://127.0.0.1:63389/devtools/browser/eb9be815-b378-45a4-a0f0-eb47b007c7e2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677293229870	Marionette	INFO	Stopped listening on port 63396
+1677293743454	geckodriver	INFO	Listening on 127.0.0.1:63553
+1677293743959	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63554" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileLmGKSz"
+1677293744939	Marionette	INFO	Marionette enabled
+1677293745605	Marionette	INFO	Listening on port 63564
+Read port: 63564
+WebDriver BiDi listening on ws://127.0.0.1:63554
+1677293745966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileLmGKSz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63554/devtools/browser/98662ab5-ba15-4a39-a0f0-0569ffe1f1e0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677293754902	Marionette	INFO	Stopped listening on port 63564
+1677293811379	geckodriver	INFO	Listening on 127.0.0.1:63621
+1677293811890	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63622" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileqEZf9D"
+1677293812892	Marionette	INFO	Marionette enabled
+1677293813278	Marionette	INFO	Listening on port 63629
+Read port: 63629
+WebDriver BiDi listening on ws://127.0.0.1:63622
+1677293813584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileqEZf9D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63622/devtools/browser/2004d882-c4eb-4cac-bd19-26ca33b22561
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677293823119	Marionette	INFO	Stopped listening on port 63629
+1677293874796	geckodriver	INFO	Listening on 127.0.0.1:63691
+1677293875306	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63692" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilepkm0bI"
+1677293876412	Marionette	INFO	Marionette enabled
+1677293876692	Marionette	INFO	Listening on port 63700
+Read port: 63700
+WebDriver BiDi listening on ws://127.0.0.1:63692
+1677293876974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilepkm0bI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63692/devtools/browser/043b7380-65b4-42ce-8aef-25c9486cffe8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677293887756	Marionette	INFO	Stopped listening on port 63700
+1677294061715	geckodriver	INFO	Listening on 127.0.0.1:63802
+1677294062220	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63803" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile0MpyPF"
+1677294063189	Marionette	INFO	Marionette enabled
+1677294063471	Marionette	INFO	Listening on port 63810
+Read port: 63810
+WebDriver BiDi listening on ws://127.0.0.1:63803
+1677294063829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile0MpyPF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63803/devtools/browser/9f701c2b-b41a-4099-a9d7-5544037de0ae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677294104861	geckodriver	INFO	Listening on 127.0.0.1:63872
+1677294105362	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63873" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileXjFN3Q"
+1677294106281	Marionette	INFO	Marionette enabled
+1677294106510	Marionette	INFO	Listening on port 63880
+Read port: 63880
+WebDriver BiDi listening on ws://127.0.0.1:63873
+1677294106817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileXjFN3Q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63873/devtools/browser/95da5a35-ac66-46f9-98e7-0899ad449d98
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677294141499	geckodriver	INFO	Listening on 127.0.0.1:63953
+1677294142010	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63954" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileQgwBNR"
+1677294143098	Marionette	INFO	Marionette enabled
+1677294143925	Marionette	INFO	Listening on port 63961
+Read port: 63961
+WebDriver BiDi listening on ws://127.0.0.1:63954
+1677294144380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileQgwBNR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63954/devtools/browser/fadd8134-dbca-47d8-9f9c-2dbe739b9b32
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677294172104	Marionette	INFO	Stopped listening on port 63880
+1677294174309	Marionette	INFO	Stopped listening on port 63810
+1677294176647	Marionette	INFO	Stopped listening on port 63961
+1677294182046	geckodriver	INFO	Listening on 127.0.0.1:64021
+1677294182555	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64022" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile04upxK"
+1677294183344	Marionette	INFO	Marionette enabled
+1677294183577	Marionette	INFO	Listening on port 64029
+Read port: 64029
+WebDriver BiDi listening on ws://127.0.0.1:64022
+1677294183794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile04upxK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64022/devtools/browser/64344c3e-5ce6-4a67-ad04-3080bb89bb2e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677294191871	Marionette	INFO	Stopped listening on port 64029
+1677294262155	geckodriver	INFO	Listening on 127.0.0.1:64104
+1677294262661	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64105" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofiletGQRly"
+1677294263717	Marionette	INFO	Marionette enabled
+1677294264056	Marionette	INFO	Listening on port 64113
+Read port: 64113
+WebDriver BiDi listening on ws://127.0.0.1:64105
+1677294264346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofiletGQRly/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64105/devtools/browser/169153e3-8f21-4055-b3dd-d8e90e673ae3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677294286019	Marionette	INFO	Stopped listening on port 64113
+1677294423761	geckodriver	INFO	Listening on 127.0.0.1:64199
+1677294424270	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64200" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileOk8gzf"
+1677294425275	Marionette	INFO	Marionette enabled
+1677294425649	Marionette	INFO	Listening on port 64209
+Read port: 64209
+WebDriver BiDi listening on ws://127.0.0.1:64200
+1677294425927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileOk8gzf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64200/devtools/browser/87dbf58d-1a74-46a6-80b8-02d4cfe4acce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677294509944	geckodriver	INFO	Listening on 127.0.0.1:64277
+1677294510458	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64278" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile3IcvKL"
+1677294511696	Marionette	INFO	Marionette enabled
+1677294512367	Marionette	INFO	Listening on port 64287
+Read port: 64287
+WebDriver BiDi listening on ws://127.0.0.1:64278
+1677294512710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile3IcvKL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64278/devtools/browser/913d8b9f-5f50-45a3-9ac2-4ff0e6b552c7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677294521356	Marionette	INFO	Stopped listening on port 64287
+1677294580489	geckodriver	INFO	Listening on 127.0.0.1:64354
+1677294580998	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64355" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilewckaOv"
+1677294581936	Marionette	INFO	Marionette enabled
+1677294582514	Marionette	INFO	Listening on port 64364
+Read port: 64364
+WebDriver BiDi listening on ws://127.0.0.1:64355
+1677294582783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilewckaOv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64355/devtools/browser/896d171c-d6ce-4e2e-8b54-e9ee9cd48bce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677294591351	Marionette	INFO	Stopped listening on port 64364
+1677294747050	geckodriver	INFO	Listening on 127.0.0.1:64447
+1677294747552	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64448" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilepwfXRZ"
+1677294748606	Marionette	INFO	Marionette enabled
+1677294748966	Marionette	INFO	Listening on port 64456
+Read port: 64456
+WebDriver BiDi listening on ws://127.0.0.1:64448
+1677294749257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilepwfXRZ/search.json.mozlz4", (void 0)))
+Exiting due to channel error.
+Exiting due to channel error.
+1677294765193	geckodriver	INFO	Listening on 127.0.0.1:64472
+1677294765702	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64473" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilexnHyVK"
+1677294766656	Marionette	INFO	Marionette enabled
+1677294767253	Marionette	INFO	Listening on port 64480
+Read port: 64480
+WebDriver BiDi listening on ws://127.0.0.1:64473
+1677294767553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilexnHyVK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64473/devtools/browser/bd9299e1-ff86-440c-8acf-4a61cff6f75c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677294776288	Marionette	INFO	Stopped listening on port 64480
+1677294855233	geckodriver	INFO	Listening on 127.0.0.1:64556
+1677294855740	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64557" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileMq6y4s"
+1677294856754	Marionette	INFO	Marionette enabled
+1677294867198	geckodriver	INFO	Listening on 127.0.0.1:64572
+1677294867706	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64573" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileL5w3uW"
+1677294868700	Marionette	INFO	Marionette enabled
+1677294869062	Marionette	INFO	Listening on port 64580
+Read port: 64580
+WebDriver BiDi listening on ws://127.0.0.1:64573
+1677294869428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileL5w3uW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64573/devtools/browser/2b570930-5d98-4efd-a895-b14c12f4709e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677294879919	Marionette	INFO	Stopped listening on port 64580
+1677294911458	geckodriver	INFO	Listening on 127.0.0.1:64647
+1677294911964	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64648" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilehKQYDd"
+1677294912845	Marionette	INFO	Marionette enabled
+1677294913124	Marionette	INFO	Listening on port 64656
+Read port: 64656
+WebDriver BiDi listening on ws://127.0.0.1:64648
+1677294913488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilehKQYDd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64648/devtools/browser/e9b48ece-60cd-4006-b627-e8f801118c96
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677294927417	Marionette	INFO	Stopped listening on port 64656
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tZsXipaSZXHHcL3TzAhvrOIdSpwDyJfWMGTb_6xT6xM.js line 2 > eval line 6979 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tZsXipaSZXHHcL3TzAhvrOIdSpwDyJfWMGTb_6xT6xM.js line 2 > eval line 7793 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677295117052	geckodriver	INFO	Listening on 127.0.0.1:64834
+1677295117553	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64835" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileD6RPzr"
+1677295118603	Marionette	INFO	Marionette enabled
+1677295118883	Marionette	INFO	Listening on port 64844
+Read port: 64844
+WebDriver BiDi listening on ws://127.0.0.1:64835
+1677295119153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileD6RPzr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64835/devtools/browser/170a484f-2179-4403-b413-57167a19ab6b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677295127314	Marionette	INFO	Stopped listening on port 64844
+1677295220836	geckodriver	INFO	Listening on 127.0.0.1:64912
+1677295221349	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64913" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofiledjgbsv"
+1677295222493	Marionette	INFO	Marionette enabled
+1677295223071	Marionette	INFO	Listening on port 64920
+Read port: 64920
+WebDriver BiDi listening on ws://127.0.0.1:64913
+1677295223375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofiledjgbsv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64913/devtools/browser/981d69ba-fb9f-459c-a6b3-e682209bc091
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677295232247	Marionette	INFO	Stopped listening on port 64920
+1677295255031	geckodriver	INFO	Listening on 127.0.0.1:64975
+1677295255537	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64976" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile2yWllE"
+1677295256487	Marionette	INFO	Marionette enabled
+1677295257063	Marionette	INFO	Listening on port 64983
+Read port: 64983
+WebDriver BiDi listening on ws://127.0.0.1:64976
+1677295257362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile2yWllE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64976/devtools/browser/48031722-9983-43d7-a7c1-e095e20b0ba5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677295265940	Marionette	INFO	Stopped listening on port 64983
+1677295319597	geckodriver	INFO	Listening on 127.0.0.1:65046
+1677295320109	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65047" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileABXkya"
+1677295321282	Marionette	INFO	Marionette enabled
+1677295321637	Marionette	INFO	Listening on port 65055
+Read port: 65055
+WebDriver BiDi listening on ws://127.0.0.1:65047
+1677295321970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileABXkya/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65047/devtools/browser/be3990a8-561a-4528-8e94-2328f8e19c9e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677295330792	Marionette	INFO	Stopped listening on port 65055
+JavaScript warning: https://flexiple.com/assets/es-module-shims.min-d89e73202ec09dede55fb74115af9c5f9f2bb965433de1c2446e1faa6dac2470.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+1677295402327	geckodriver	INFO	Listening on 127.0.0.1:65215
+1677295402838	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65216" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile8EI3L8"
+1677295403887	Marionette	INFO	Marionette enabled
+1677295404128	Marionette	INFO	Listening on port 65223
+Read port: 65223
+WebDriver BiDi listening on ws://127.0.0.1:65216
+1677295404359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile8EI3L8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65216/devtools/browser/e89c9f70-3bdb-40c8-a595-51c086ea3f1f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677295412511	Marionette	INFO	Stopped listening on port 65223
+1677295470045	geckodriver	INFO	Listening on 127.0.0.1:65299
+1677295470562	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65300" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileuJj5Xh"
+1677295471854	Marionette	INFO	Marionette enabled
+1677295472095	Marionette	INFO	Listening on port 65309
+Read port: 65309
+WebDriver BiDi listening on ws://127.0.0.1:65300
+1677295472461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileuJj5Xh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65300/devtools/browser/dac89a42-8a9f-4b5c-840e-41475c0d27fd
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1677295493074	geckodriver	INFO	Listening on 127.0.0.1:65348
+1677295493585	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65349" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofiletOlvIz"
+1677295494821	Marionette	INFO	Marionette enabled
+1677295495118	Marionette	INFO	Listening on port 65357
+Read port: 65357
+WebDriver BiDi listening on ws://127.0.0.1:65349
+1677295495388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofiletOlvIz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65349/devtools/browser/a3747d1a-335c-4362-9472-402a171bd1fe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677295523405	Marionette	INFO	Stopped listening on port 65357
+1677295601977	geckodriver	INFO	Listening on 127.0.0.1:65429
+1677295602500	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65430" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileCuF46i"
+1677295603778	Marionette	INFO	Marionette enabled
+1677295604324	Marionette	INFO	Listening on port 65439
+Read port: 65439
+WebDriver BiDi listening on ws://127.0.0.1:65430
+1677295604643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileCuF46i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65430/devtools/browser/9bdbadcd-a919-4bdd-a9b9-f24c785fc836
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677295633336	Marionette	INFO	Stopped listening on port 65439
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tZsXipaSZXHHcL3TzAhvrOIdSpwDyJfWMGTb_6xT6xM.js line 2 > eval line 847 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=976f1bcf-35e3-4122-9359-327290e5698d&moatClientLevel4=aaef3ec0-4e83-4679-9aee-b5babb7c92fd&uid=Q3SJLzxxgywoAv9YQGyOLUF0l1tBB_w3QXeNKzB0jS5GdY1bOyDQGw==, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=976f1bcf-35e3-4122-9359-327290e5698d&moatClientLevel4=aaef3ec0-4e83-4679-9aee-b5babb7c92fd&uid=Q3SJLzxxgywoAv9YQGyOLUF0l1tBB_w3QXeNKzB0jS5GdY1bOyDQGw==, line 13: Script terminated by timeout at:
+p@https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=976f1bcf-35e3-4122-9359-327290e5698d&moatClientLevel4=aaef3ec0-4e83-4679-9aee-b5babb7c92fd&uid=Q3SJLzxxgywoAv9YQGyOLUF0l1tBB_w3QXeNKzB0jS5GdY1bOyDQGw==:13:307
+a.f.v@https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=976f1bcf-35e3-4122-9359-327290e5698d&moatClientLevel4=aaef3ec0-4e83-4679-9aee-b5babb7c92fd&uid=Q3SJLzxxgywoAv9YQGyOLUF0l1tBB_w3QXeNKzB0jS5GdY1bOyDQGw==:99:242
+p@https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=976f1bcf-35e3-4122-9359-327290e5698d&moatClientLevel4=aaef3ec0-4e83-4679-9aee-b5babb7c92fd&uid=Q3SJLzxxgywoAv9YQGyOLUF0l1tBB_w3QXeNKzB0jS5GdY1bOyDQGw==:240:197
+a.ai.a@https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=976f1bcf-35e3-4122-9359-327290e5698d&moatClientLevel4=aaef3ec0-4e83-4679-9aee-b5babb7c92fd&uid=Q3SJLzxxgywoAv9YQGyOLUF0l1tBB_w3QXeNKzB0jS5GdY1bOyDQGw==:254:304
+a.f.ab@https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=976f1bcf-35e3-4122-9359-327290e5698d&moatClientLevel4=aaef3ec0-4e83-4679-9aee-b5babb7c92fd&uid=Q3SJLzxxgywoAv9YQGyOLUF0l1tBB_w3QXeNKzB0jS5GdY1bOyDQGw==:256:14
+a.f.au@https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=976f1bcf-35e3-4122-9359-327290e5698d&moatClientLevel4=aaef3ec0-4e83-4679-9aee-b5babb7c92fd&uid=Q3SJLzxxgywoAv9YQGyOLUF0l1tBB_w3QXeNKzB0jS5GdY1bOyDQGw==:259:239
+a.f.av@https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=976f1bcf-35e3-4122-9359-327290e5698d&moatClientLevel4=aaef3ec0-4e83-4679-9aee-b5babb7c92fd&uid=Q3SJLzxxgywoAv9YQGyOLUF0l1tBB_w3QXeNKzB0jS5GdY1bOyDQGw==:259:392
+Va@https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=976f1bcf-35e3-4122-9359-327290e5698d&moatClientLevel4=aaef3ec0-4e83-4679-9aee-b5babb7c92fd&uid=Q3SJLzxxgywoAv9YQGyOLUF0l1tBB_w3QXeNKzB0jS5GdY1bOyDQGw==:5:224
+lb@https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=976f1bcf-35e3-4122-9359-327290e5698d&moatClientLevel4=aaef3ec0-4e83-4679-9aee-b5babb7c92fd&uid=Q3SJLzxxgywoAv9YQGyOLUF0l1tBB_w3QXeNKzB0jS5GdY1bOyDQGw==:2:103
+a.xa.sode.prototype.zaxs@https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=976f1bcf-35e3-4122-9359-327290e5698d&moatClientLevel4=aaef3ec0-4e83-4679-9aee-b5babb7c92fd&uid=Q3SJLzxxgywoAv9YQGyOLUF0l1tBB_w3QXeNKzB0jS5GdY1bOyDQGw== line 57 > eval:5:54
+@https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=976f1bcf-35e3-4122-9359-327290e5698d&moatClientLevel4=aaef3ec0-4e83-4679-9aee-b5babb7c92fd&uid=Q3SJLzxxgywoAv9YQGyOLUF0l1tBB_w3QXeNKzB0jS5GdY1bOyDQGw==:629:345
+@https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=976f1bcf-35e3-4122-9359-327290e5698d&moatClientLevel4=aaef3ec0-4e83-4679-9aee-b5babb7c92fd&uid=Q3SJLzxxgywoAv9YQGyOLUF0l1tBB_w3QXeNKzB0jS5GdY1bOyDQGw==:629:431
+
+JavaScript warning: https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=8d50899b-9111-409c-b6d1-a8a6eed7a923&moatClientLevel4=ce32df63-a454-4380-9c1e-b00b5d1a4add&uid=BuE6cHKRSHRpkjoDAo85AXXnIAUGkj9qAuZPdwaSPQUA4T1z9l_vOA==, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-tTB93UFC5vepM&moatClientLevel2=qfm&moatClientLevel3=976f1bcf-35e3-4122-9359-327290e5698d&moatClientLevel4=aaef3ec0-4e83-4679-9aee-b5babb7c92fd&uid=psb_6q7F-Lz8l_q9rp_y7PmQ_uj9k_K-_pT97PqX8u36l_m5rMT_vKxnykA=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: TypeError: b is null
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: TypeError: b is null
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tZsXipaSZXHHcL3TzAhvrOIdSpwDyJfWMGTb_6xT6xM.js line 2 > eval line 5496 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677295799051	geckodriver	INFO	Listening on 127.0.0.1:49744
+1677295799561	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49745" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilevfDWGk"
+1677295800481	Marionette	INFO	Marionette enabled
+1677295800855	Marionette	INFO	Listening on port 49752
+Read port: 49752
+WebDriver BiDi listening on ws://127.0.0.1:49745
+1677295801131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilevfDWGk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49745/devtools/browser/f76ecbbe-3b0b-49ae-921b-5782c73a1cf0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677295829667	Marionette	INFO	Stopped listening on port 49752
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677295888672	Marionette	INFO	Stopped listening on port 62670
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.error: "Unable to find target with innerWindowId:6442450958"
+console.error: "Unable to find target with innerWindowId:6442450958"
+console.error: "Unable to find target with innerWindowId:6442450958"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677295902294	Marionette	INFO	Stopped listening on port 64209
+1677295914807	geckodriver	INFO	Listening on 127.0.0.1:49839
+1677295915332	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49840" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileOa0YJ1"
+1677295916125	Marionette	INFO	Marionette enabled
+1677295916392	Marionette	INFO	Listening on port 49848
+Read port: 49848
+WebDriver BiDi listening on ws://127.0.0.1:49840
+1677295916600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileOa0YJ1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49840/devtools/browser/ce642995-dbec-4e39-a412-7e58cbc9ffa9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677296042595	Marionette	INFO	Stopped listening on port 49848
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677296044813	geckodriver	INFO	Listening on 127.0.0.1:49935
+1677296045327	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49936" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile0VAX0M"
+1677296046257	Marionette	INFO	Marionette enabled
+1677296047062	Marionette	INFO	Listening on port 49943
+Read port: 49943
+WebDriver BiDi listening on ws://127.0.0.1:49936
+1677296047602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile0VAX0M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49936/devtools/browser/bd238563-c4d1-42e5-95e4-67c4f4c8946a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.pandaguestexperience.com."
+1677300333184	geckodriver	INFO	Listening on 127.0.0.1:50864
+1677300333737	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50865" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilepyLrZR"
+1677300335199	Marionette	INFO	Marionette enabled
+1677300335854	Marionette	INFO	Listening on port 50879
+Read port: 50879
+WebDriver BiDi listening on ws://127.0.0.1:50865
+1677300336207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilepyLrZR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50865/devtools/browser/7344c4f3-f20f-4d98-a39a-93caad1acc19
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1677300369465	Marionette	INFO	Stopped listening on port 49943
+1677300390847	geckodriver	INFO	Listening on 127.0.0.1:51004
+1677300391355	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51005" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofiletWEf0p"
+1677300392509	Marionette	INFO	Marionette enabled
+1677300392836	Marionette	INFO	Listening on port 51014
+Read port: 51014
+WebDriver BiDi listening on ws://127.0.0.1:51005
+1677300393087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofiletWEf0p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51005/devtools/browser/5405d6cd-7b81-41a2-b1a1-b81f52cc55b8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1677300511814	geckodriver	INFO	Listening on 127.0.0.1:51277
+1677300511833	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51278" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilelUsOJS"
+1677300512722	Marionette	INFO	Marionette enabled
+1677300513046	Marionette	INFO	Listening on port 51288
+Read port: 51288
+WebDriver BiDi listening on ws://127.0.0.1:51278
+1677300513341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilelUsOJS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51278/devtools/browser/d065b3d1-aa07-4ac9-b12c-d22d18365dbc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1677300621815	geckodriver	INFO	Listening on 127.0.0.1:51455
+1677300622335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51456" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilevw4HSn"
+1677300623301	Marionette	INFO	Marionette enabled
+1677300623697	Marionette	INFO	Listening on port 51465
+Read port: 51465
+WebDriver BiDi listening on ws://127.0.0.1:51456
+1677300623989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilevw4HSn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51456/devtools/browser/32988acd-bac5-45cf-bc17-aad11beb29ed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1677300783497	geckodriver	INFO	Listening on 127.0.0.1:51770
+1677300784024	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51771" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileDrzx2I"
+1677300784992	Marionette	INFO	Marionette enabled
+1677300785297	Marionette	INFO	Listening on port 51781
+Read port: 51781
+WebDriver BiDi listening on ws://127.0.0.1:51771
+1677300785571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofileDrzx2I/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51771/devtools/browser/2b65cff8-c433-45d8-ab1c-cfda26447d09
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1677300837881	geckodriver	INFO	Listening on 127.0.0.1:51902
+1677300838392	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51903" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilev2a7UU"
+1677300839411	Marionette	INFO	Marionette enabled
+1677300840021	Marionette	INFO	Listening on port 51924
+Read port: 51924
+WebDriver BiDi listening on ws://127.0.0.1:51903
+1677300840440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilev2a7UU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51903/devtools/browser/f90369cf-563b-4c3c-bb7d-1d77624ac0d2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1677300855641	Marionette	INFO	Stopped listening on port 51924
+1677300866241	geckodriver	INFO	Listening on 127.0.0.1:52001
+1677300866761	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52002" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilewD33Wh"
+1677300867725	Marionette	INFO	Marionette enabled
+1677300867998	Marionette	INFO	Listening on port 52011
+Read port: 52011
+WebDriver BiDi listening on ws://127.0.0.1:52002
+1677300868260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilewD33Wh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52002/devtools/browser/a9740aa1-a108-4a6d-83a6-752847b5562e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1677300880388	Marionette	INFO	Stopped listening on port 52011

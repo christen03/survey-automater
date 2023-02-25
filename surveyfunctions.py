@@ -3,8 +3,6 @@ from selenium.webdriver.common.by import By
 import random
 
 driver=webdriver.Firefox()
-
-
 def multiple_columns_one_choice_each():
     survey = driver.find_element(By.CLASS_NAME, "rbList")
     row = survey.find_element(By.CLASS_NAME, "Opt3")
