@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title%}Running...{% endblock %}
+
+{%block content %}
+<head>
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js">
+  </script>
+  <script>
+    jQuery(document).ready(function($) {
+      var refresh_id = setInterval(function() {
+          $.get(
+            "{{ url_for('surveys.survey_status') }}",
+            function(data) {
+              console.log(data);
+              if (data.status == "finished") {
+                window.location.replace("{{ url_for('surveys.results') }}");
+              }
+              else if (data.status== "failed"){
+                window.location.replace("{{url_for('surveys.failed') }}");
+              }
+            }
+          )}
+        , 1000);
+    });
+  </script>
+</head>
+<div class="container">
+    <h1>Thank you for using my automater!</h1>
+</br>
+<h2>Please wait while the survey bot runs...</h2>
+</div>
+{%endblock%}
