@@ -1,5 +1,5 @@
 from flask import Blueprint, render_template, request, jsonify
-from mcdonald import survey, isDone
+from .mcdonald import survey, isDone
 import threading 
 
 surveyResult=[None]

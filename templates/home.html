@@ -1,0 +1,9 @@
+{% extends "base-survey.html" %} 
+{%block title%} Home {%endblock%}
+
+{% block content %}
+<div class="container">
+    <h2>Welcome to my McDonald's survey automater! Simply type in your code below and hit submit to begin!</h2>
+</div>
+<form action="/init/MCDSurveyRunning" method="POST">
+{% endblock %}

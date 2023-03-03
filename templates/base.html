@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,17 +16,16 @@
         </button>
         <div class="collapse navbar-collapse" id="navbar">
             <div class="navbar-nav">
-                <a class="nav-item nav-link" id="McDonald's" href="/">McDonald's</a>
+                <a class="nav-item nav-link" id="McDonald's" href="{{url_for('views.home')}}">McDonald's</a>
+                <a class="nav-item nav-link" id="PandaExpress" href="{{url_for('views.panda')}}">Panda Express</a>
                 <a class="nav-item nav-link" id="Chick-fil-a" href="/">Chick-fil-a</a>
                 <a class="nav-item nav-link" id="Burger King" href="/">Burger King</a>
                 <a class="nav-item nav-link" id="Denny's" href="/">Denny's</a>
             </div>
         </div>
     </nav>
-    <div class="container">
-        {% block content %}
+        {% block body %}
         {% endblock %}
-    </div>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>
