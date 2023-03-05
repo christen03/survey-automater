@@ -3,15 +3,20 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 import random
 
-def pandaSurvey(email, code):
+def pandaSurvey(code, email, surveyResult):
+    global running
+    running = True
     driver=webdriver.Firefox()
     driver.get("http://pandaexpress.com/feedback")
-    email="christen722@icloud.com"
-    code=["2323", "2835", "1864", "0072", "0512", "04"]
     for i in range(1, 7):
         xpath = '//*[@id="CN'+str(i)+'"]'
         driver.find_element(By.XPATH, xpath).send_keys(code[i-1])
     driver.find_element(By.XPATH, '//*[@id="NextButton"]').click()
+
+    if(not driver.find_elements(By.CLASS_NAME, "Opt5")):
+        driver.close()
+        running=False
+        return
 
     #Overall satisfaction (Multi column, one choice)
     option=driver.find_element(By.CLASS_NAME, 'Opt5')
@@ -114,4 +119,11 @@ def pandaSurvey(email, code):
     driver.find_element(By.XPATH, '//*[@id="S000057"]').send_keys(email)
     driver.find_element(By.XPATH, '//*[@id="S000064"]').send_keys(email)
     driver.find_element(By.XPATH, '//*[@id="NextButton"]').click()
+
+    surveyResult[0]="done"
     driver.quit()    
+    running=False
+    return
+
+def isDone():
+    return (not running)
