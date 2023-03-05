@@ -4044,3 +4044,148 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
 1677724699401	Marionette	INFO	Stopped listening on port 50972
+1677913983492	geckodriver	INFO	Listening on 127.0.0.1:59913
+1677913983980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59914" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilesW8ftd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677913984788	Marionette	INFO	Marionette enabled
+1677913985124	Marionette	INFO	Listening on port 59925
+Read port: 59925
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59914
+1677913985381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilesW8ftd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59914/devtools/browser/afe1f9f4-8f24-42ae-88b9-cd1a749b1853
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1677913999290	Marionette	INFO	Stopped listening on port 59925
+1678054057377	geckodriver	INFO	Listening on 127.0.0.1:52857
+1678054057892	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52858" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile9PoKQt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678054058739	Marionette	INFO	Marionette enabled
+1678054059021	Marionette	INFO	Listening on port 52870
+Read port: 52870
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:52858
+1678054059244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile9PoKQt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52858/devtools/browser/86b7f144-525a-4a1b-80b0-79fd508aa7ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1678054070891	Marionette	INFO	Stopped listening on port 52870
+1678054171197	geckodriver	INFO	Listening on 127.0.0.1:52972
+1678054171731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52973" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilebzp9Zr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678054172700	Marionette	INFO	Marionette enabled
+1678054172928	Marionette	INFO	Listening on port 52985
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 52985
+WebDriver BiDi listening on ws://127.0.0.1:52973
+1678054173154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilebzp9Zr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52973/devtools/browser/2751c4c5-43fc-417b-b486-3d4526eaec18
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1678054184822	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1678054185285	Marionette	INFO	Stopped listening on port 52985
+1678054217316	geckodriver	INFO	Listening on 127.0.0.1:53076
+1678054217829	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53077" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilereqgDU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678054218596	Marionette	INFO	Marionette enabled
+1678054218842	Marionette	INFO	Listening on port 53089
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 53089
+WebDriver BiDi listening on ws://127.0.0.1:53077
+1678054219040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofilereqgDU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53077/devtools/browser/e02ed5ae-4a88-476e-b014-04a8fe4dbfd3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1678054230068	Marionette	INFO	Stopped listening on port 53089
+1678054281747	geckodriver	INFO	Listening on 127.0.0.1:53207
+1678054282269	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53208" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile6FDWu3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678054282949	Marionette	INFO	Marionette enabled
+1678054283213	Marionette	INFO	Listening on port 53217
+Read port: 53217
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:53208
+1678054283408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/82/xb7_b8014pd6lm9l5dws8h9c0000gn/T/rust_mozprofile6FDWu3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53208/devtools/browser/390b8be5-1b24-49b1-b91b-1c8347659074
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.mcdvoice.com."
+1678054293647	Marionette	INFO	Stopped listening on port 53217

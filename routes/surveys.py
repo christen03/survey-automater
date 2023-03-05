@@ -29,7 +29,7 @@ def survey_status():
 
 @surveys.route('/MCDSurveyDone')
 def results():
-    return render_template("mcdonaldsfinished.html", code=surveyResult[0])
+    return render_template("finished.html", code=surveyResult[0], surveyType="MCD")
 
 @surveys.route('/MCDfailed')
 def failed():
